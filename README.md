@@ -1,5 +1,6 @@
 # Git Command Examples
-An article on how to use the most commonly used git commands
+This repo was used for the purpose of writing the following article 
 
-# Contributions are welcome 
-See our CONTRIBUTIONS.md guide
+https://codeburst.io/git-tutorial-a-beginners-guide-to-most-frequently-used-git-commands-2ab92bd22787
+
+The articles explains 20 most commonly used git commands with examples.
